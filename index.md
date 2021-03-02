@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to the test Project
+### this is last updated on 2-March-2021, by Ankit Bansal
 
 You can use the [editor on GitHub](https://github.com/bankit127/test1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+The above not is left intack so that we don't have to revisit how to change thing
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+hello everyone you can see the format is easy and divding things into the differnet blocks can be done
+
 
 ```markdown
 Syntax highlighted code block
@@ -18,8 +25,25 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+
+-  test
+-  test
+-  - test
+
+1. list 
+2. list
+3. list 
+
 1. Numbered
 2. List
+
+
+**test bold***
+
+_Italic_
+_test_
+
+`test `
 
 **Bold** and _Italic_ and `Code` text
 
@@ -27,6 +51,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
 
 ### Jekyll Themes
 
